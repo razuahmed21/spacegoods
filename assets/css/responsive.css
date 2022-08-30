@@ -1,3 +1,4 @@
+/* +++++++++++++++++ Mobile Device ++++++++++++++++++ */
 @media (max-width: 575.98px) {
 	.menu-bottom-row {
 		grid-template-columns: auto !important;
@@ -49,7 +50,7 @@
 		max-width: 95% !important;
 	}
 }
-
+/* +++++++++++++++++ Tablet Device ++++++++++++++++++ */
 @media (max-width: 991.98px) {
 	.mobile-banner {
 		display: block;
@@ -103,6 +104,7 @@
 		margin: 10px 0;
 	}
 }
+/* +++++++++++++++++ Labtop Device ++++++++++++++++++ */
 @media (max-width: 1399.98px) {
 	.hero-img {
 		width: 62%;
@@ -110,5 +112,4 @@
 	.hero-banner-area:before {
 		width: 45%;
 	}
-
 }
